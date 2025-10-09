@@ -174,3 +174,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Built with 💜 by Homaira Yousufi**
 
 *Last Updated: October 2025*
+## Part 3 Reflection
+
+Implementing React Router transformed my portfolio from a single-page app into a proper multi-page experience with real navigation. The biggest challenge was ensuring accessibility throughout all routes with proper ARIA labels, keyboard navigation, and semantic HTML. My favorite addition was the dynamic project detail pages with individual URLs and the polished 404 page. Learning to compose reusable components like TechBadge and StatusBadge taught me the power of component composition and maintaining clean, maintainable code.
